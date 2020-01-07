@@ -1,1 +1,1 @@
-let divide 
+let divide = () 
